@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://az-dating-blog.netlify.app/"
 locale = "az"
 defaultContentLanguage = "az"
 title = "Azərbaycanda Tanışlıq"
