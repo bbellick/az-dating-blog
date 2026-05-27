@@ -1,0 +1,68 @@
+baseURL = "https://example.com/"
+locale = "az"
+defaultContentLanguage = "az"
+title = "Azərbaycanda Tanışlıq"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Azərbaycanda tanışlıq saytları haqqında dürüst rəylər, müqayisələr və təhlükəsizlik məsləhətləri."
+  author = "Redaktor"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowFullTextInRSS = false
+  hidemeta = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "Azərbaycanda Tanışlıq"
+    Content = "Tinder, Badoo, Bumble və digər tanışlıq saytları haqqında dürüst rəylər. Hansı saytı seçmək lazımdır? Necə təhlükəsiz tanış olmaq olar? Burada cavab tapacaqsınız."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "obzor"
+    name = "Rəylər"
+    url = "/obzor/"
+    weight = 10
+  [[menu.main]]
+    identifier = "muqayise"
+    name = "Müqayisə"
+    url = "/muqayise/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tehlukesizlik"
+    name = "Təhlükəsizlik"
+    url = "/tehlukesizlik/"
+    weight = 30
+  [[menu.main]]
+    identifier = "haqqimda"
+    name = "Haqqımda"
+    url = "/haqqimda/"
+    weight = 40
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[permalinks]
+  obzor = "/obzor/:slug/"
+  muqayise = "/muqayise/:slug/"
+  tehlukesizlik = "/tehlukesizlik/:slug/"
