@@ -45,6 +45,11 @@ enableEmoji = true
     url = "/tehlukesizlik/"
     weight = 30
   [[menu.main]]
+    identifier = "metodologiya"
+    name = "Metodologiya"
+    url = "/metodologiya/"
+    weight = 35
+  [[menu.main]]
     identifier = "haqqimda"
     name = "Haqqımda"
     url = "/haqqimda/"
