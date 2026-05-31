@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/muqayise/_index.md",
+                "file": "ЧЕРНОВИКИ/Datibee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Datibee"
             }
           }
         ]
@@ -183,6 +183,31 @@
   },
   "active": "2dc871876e65ffb4",
   "lastOpenFiles": [
+    "hugo.toml.tmp.27164.3da859e6e4a7",
+    "hugo.toml.tmp.27164.0efe92d65b61",
+    "hugo.toml.tmp.27164.252a737e48f2",
+    "content/obzor/_index.md.tmp.27164.03ca1740a4e4",
+    "content/obzor/datibee.md",
+    "ЧЕРНОВИКИ/Datibee.md.tmp.27164.ca6aa379b60e",
+    "ЧЕРНОВИКИ/Datibee.md.tmp.27164.13576f664703",
+    "static/images/_working-project-structure.png",
+    "static/images/datibee-premium-location.png",
+    "static/images/datibee-promo-3days.png",
+    "static/images/datibee-premium-plus-prices.png",
+    "static/images/datibee-premium-prices.png",
+    "static/images/datibee-support-form.png",
+    "static/images/datibee-verified-profile.png",
+    "static/images/tinder-plans-comparison.png",
+    "static/images/badoo-credits-prices.png",
+    "static/images/badoo-premium-features.png",
+    "ЧЕРНОВИКИ/Badoo.md",
+    "ЧЕРНОВИКИ/Datibee.md",
+    "ЧЕРНОВИКИ/Tinder.md",
+    "ЧЕРНОВИКИ/Tinder.md.tmp.27164.efd53d706baa",
+    "ЧЕРНОВИКИ/Datibee.md.tmp.27164.f2b60f4cbd40",
+    "ЧЕРНОВИКИ/Badoo.md.tmp.27164.d354bee92843",
+    "ЧЕРНОВИКИ/passwords.md",
+    "content/muqayise/_index.md",
     "content/muqayise/tinder-vs-badoo.md",
     "content/tehlukesizlik/_index.md",
     "content/tehlukesizlik/fejk-profil.md",
@@ -199,30 +224,10 @@
     "content/obzor/bumble.md",
     "content/obzor/mamba.md",
     "content/obzor/tinder.md",
-    "ЧЕРНОВИКИ/Tinder.md",
-    "ЧЕРНОВИКИ/Datibee.md",
     "ЧЕРНОВИКИ/Важно.md",
     "ЧЕРНОВИКИ/README.md",
-    "ЧЕРНОВИКИ/passwords.md",
-    "Pasted image 20260530130139.png",
-    "Pasted image 20260530125405.png",
-    "Pasted image 20260530125241.png",
-    "Pasted image 20260530125139.png",
-    "Pasted image 20260530125108.png",
-    "Pasted image 20260530125002.png",
-    "Pasted image 20260530105052.png",
     "f",
     "ЧЕРНОВИКИ/ШАБЛОН-ОБЗОРА 1 1 1 1.md",
-    "ЧЕРНОВИКИ/ШАБЛОН-ОБЗОРА 1 1 1.md",
-    "ЧЕРНОВИКИ/ШАБЛОН-ОБЗОРА 1 1.md",
-    "ЧЕРНОВИКИ/Методолгия.md",
-    "Pasted image 20260530092845.png",
-    "static/images/lukasz.jpg",
-    "static/images",
-    "1627506980429.jpg",
-    "ЧЕРНОВИКИ/О себе.md",
-    "ЧЕРНОВИКИ",
-    "КОНТЕНТ-ОБЗОР.md.tmp.25500.e8d3f905ddda",
-    "hugo.toml.tmp.25500.b9bda171329b"
+    "static/images"
   ]
 }

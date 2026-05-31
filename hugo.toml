@@ -8,7 +8,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  description = "Azərbaycanda tanışlıq saytları haqqında dürüst rəylər, müqayisələr və təhlükəsizlik məsləhətləri."
+  description = "Azərbaycanda tanışlıq saytları haqqında dürüst rəylər. Tinder, Badoo, Datibee — real təcrübə əsasında LuRa Ratio qiymətləndirməsi."
   author = "Redaktor"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -22,7 +22,7 @@ enableEmoji = true
 
   [params.homeInfoParams]
     Title = "Azərbaycanda Tanışlıq"
-    Content = "Tinder, Badoo, Bumble və digər tanışlıq saytları haqqında dürüst rəylər. Hansı saytı seçmək lazımdır? Necə təhlükəsiz tanış olmaq olar? Burada cavab tapacaqsınız."
+    Content = "Tinder, Badoo, Datibee — Azərbaycanda real istifadə əsasında dürüst rəylər. Hansı saytı seçmək lazımdır? LuRa Ratio ilə müqayisəli qiymətləndirmə."
 
   [[params.socialIcons]]
     name = "rss"
@@ -34,16 +34,6 @@ enableEmoji = true
     name = "Rəylər"
     url = "/obzor/"
     weight = 10
-  [[menu.main]]
-    identifier = "muqayise"
-    name = "Müqayisə"
-    url = "/muqayise/"
-    weight = 20
-  [[menu.main]]
-    identifier = "tehlukesizlik"
-    name = "Təhlükəsizlik"
-    url = "/tehlukesizlik/"
-    weight = 30
   [[menu.main]]
     identifier = "metodologiya"
     name = "Metodologiya"
@@ -69,5 +59,3 @@ enableEmoji = true
 
 [permalinks]
   obzor = "/obzor/:slug/"
-  muqayise = "/muqayise/:slug/"
-  tehlukesizlik = "/tehlukesizlik/:slug/"
