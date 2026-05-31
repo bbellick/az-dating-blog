@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЧЕРНОВИКИ/Datibee.md",
+                "file": "ЧЕРНОВИКИ/Linki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datibee"
+              "title": "Linki"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "2dc871876e65ffb4",
   "lastOpenFiles": [
+    "ЧЕРНОВИКИ/Datibee.md",
+    "ЧЕРНОВИКИ/Linki.md",
     "hugo.toml.tmp.27164.3da859e6e4a7",
     "hugo.toml.tmp.27164.0efe92d65b61",
     "hugo.toml.tmp.27164.252a737e48f2",
@@ -201,7 +203,6 @@
     "static/images/badoo-credits-prices.png",
     "static/images/badoo-premium-features.png",
     "ЧЕРНОВИКИ/Badoo.md",
-    "ЧЕРНОВИКИ/Datibee.md",
     "ЧЕРНОВИКИ/Tinder.md",
     "ЧЕРНОВИКИ/Tinder.md.tmp.27164.efd53d706baa",
     "ЧЕРНОВИКИ/Datibee.md.tmp.27164.f2b60f4cbd40",
@@ -227,7 +228,6 @@
     "ЧЕРНОВИКИ/Важно.md",
     "ЧЕРНОВИКИ/README.md",
     "f",
-    "ЧЕРНОВИКИ/ШАБЛОН-ОБЗОРА 1 1 1 1.md",
-    "static/images"
+    "ЧЕРНОВИКИ/ШАБЛОН-ОБЗОРА 1 1 1 1.md"
   ]
 }
