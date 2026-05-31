@@ -7,17 +7,17 @@ Mən dünyagəzən bir subayam — həmişə yeni tanışlıqlar axtarıram. Aş
 
 ## Müqayisə cədvəli
 
-| Sayt | LuRa | Kimlər üçün | Ətraflı |
-|------|------|-------------|---------|
-| 🥇 Tinder | **7.05** | Bakıda, geniş auditoriya | [Oxu →](/obzor/tinder/) |
-| 🥈 Datibee | **6.75** | Sadəliyi sevənlər, real görüşlər | [Oxu →](/obzor/datibee/) |
-| 🥉 Badoo | **5.95** | Rusiyalıdilli tanışlıqlar | [Oxu →](/obzor/badoo/) |
+| Sayt | LuRa | Kimlər üçün | Rəy |
+|------|------|-------------|-----|
+| 🥇 [Tinder](https://tinder.com) | **7.05** | Bakıda, geniş auditoriya | [Oxu →](/obzor/tinder/) |
+| 🥈 [Datibee](https://datibee.com) | **6.75** | Sadəliyi sevənlər, real görüşlər | [Oxu →](/obzor/datibee/) |
+| 🥉 [Badoo](https://badoo.com) | **5.95** | Rusiyalıdilli tanışlıqlar | [Oxu →](/obzor/badoo/) |
 
 ## Qısa nəticə
 
 **Tinder** — ən çox istifadəçisi olan saytdır, xüsusilə Bakıda. Pulsuz versiya çox məhduddur, saxta profillər var. Bir dəfə sınamaq dəyər.
 
-**Datibee** — ən sadə interfeys, az bot, real görüşlər. Hələ çox tanınmır, amma bu da üstünlükdür — rəqabət azdır. Qeydiyyatdan sonra 10 dəqiqə gözləyin, promokod gəlir.
+**[Datibee](https://datibee.com)** — ən sadə interfeys, az bot, real görüşlər. Hələ çox tanınmır, amma bu da üstünlükdür — rəqabət azdır. Qeydiyyatdan sonra 10 dəqiqə gözləyin, promokod gəlir.
 
 **Badoo** — rusiyalıdilli auditoriya üçün ən yaxşı seçimdir. Qeydiyyat çətin, amma kredit sistemi Tinder-dən daha çevikdir.
 

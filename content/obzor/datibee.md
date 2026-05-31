@@ -92,6 +92,8 @@ LuRa = 6.75 / 10
 
 Sadəliyi sevən, müxtəlif parametrlərlə baş ağrıtmaq istəməyən və başlanğıcda bir az ödəməyə hazır olanlar üçün uyğundur. Xarici və yerli istifadəçilərin olduğu klassik tətbiqdir, amma Tinder kimi hələ çox tanınmır.
 
+[Datibee saytına keç →](https://datibee.com)
+
 ---
 
 ## Şəxsi hekayə

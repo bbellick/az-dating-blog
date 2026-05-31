@@ -94,6 +94,8 @@ LuRa = 5.95 / 10
 
 Azərbaycanda rusiyalıdilli tanışlıqlar axtaranlar üçün (ingilis dili bilənlər az) və qeydiyyat ilə ödəniş zamanı çətinliklərə hazır olanlar üçün uyğundur.
 
+[Badoo saytına keç →](https://badoo.com)
+
 ---
 
 ## Şəxsi hekayə

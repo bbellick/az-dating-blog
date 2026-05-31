@@ -85,3 +85,5 @@ LuRa = 7.05 / 10
 ## Əsas nəticə
 
 Bir dəfə mütləq sınayın — bəlkə şanslı olarsınız. Lakin ideal variant olduğunu söyləmək olmaz: pulsuz versiya çox məhdudlaşdırılmışdır, saxta profillər çoxdur, qiymətlər isə baha.
+
+[Tinder saytına keç →](https://tinder.com)
